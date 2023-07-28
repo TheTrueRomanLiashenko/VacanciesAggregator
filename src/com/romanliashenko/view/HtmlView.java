@@ -83,6 +83,6 @@ public class HtmlView implements View {
     }
 
     public void userCitySelectEmulationMethod() throws IOException {
-        controller.onCitySelect("Odessa");
+        controller.onCitySelect("Dnipro");
     }
 }
